@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "last_updated": "2026-09-10T10:00:00Z",
+    "project_name": "Tên Dự Án Của Bạn",
+    "repository": "https://github.com/LeePhuc95/apk-icons"
+  },
+  "auto_install": {
+    "GEN": [
+      {
+        "name": "Ứng Dụng Phiên Bản Chung",
+        "url": "https://github.com/username/repo-name/releases/download/v1.0.0/app-universal.apk"
+      },
+      {
+        "name": "Ứng Dụng Bản Rút Gọn (Lite)",
+        "url": "https://github.com/username/repo-name/releases/download/v1.0.0/app-lite.apk"
+      }
+    ],
+    "VI": [
+      {
+        "name": "Ứng Dụng (Tiếng Việt)",
+        "url": "https://github.com/username/repo-name/releases/download/v1.0.1/app-vi-1.0.1.apk"
+      }
+    ],
+    "EN": [
+      {
+        "id": "com.example.app.en",
+        "url": "https://github.com/username/repo-name/releases/download/v1.0.2/app-en-1.0.2.apk"
+      }
+    ]
+  }
+}
